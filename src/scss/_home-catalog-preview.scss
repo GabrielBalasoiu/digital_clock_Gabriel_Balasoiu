@@ -1,0 +1,10 @@
+@import ''
+
+.home-catalog-preview {
+    & > header {
+        h1 {
+            font-size: 24px;
+            color: $brand-primary;
+        }
+    }
+}
